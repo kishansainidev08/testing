@@ -1,0 +1,9 @@
+name: fullstack-app
+
+services:
+
+  myapp:
+    build: ./
+    container_name: react-app
+    ports:
+      - "3004:80"
