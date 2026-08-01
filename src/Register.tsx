@@ -1,7 +1,7 @@
 
 const Register = () => {
   return (
-    <div>Register-Kishan Saini</div>
+    <div>Register-Kishan Saini-KS</div>
   )
 }
 
